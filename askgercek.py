@@ -15,8 +15,8 @@ TELEGRAM_CHAT_ID = "6154849380"
 # ===========================================================
 
 # ==================== RAILWAY AYARLARI ====================
-RAILWAY_URL = ""  # Ornegin: https://askgercek.railway.app
-RAILWAY_API_KEY = ""  # Sunucudaki API_SIFRE ile ayni olmali
+RAILWAY_URL = "web-production-25440.up.railway.app"  # Ornegin: https://askgercek.railway.app
+RAILWAY_API_KEY = "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"  # Sunucudaki API_SIFRE ile ayni olmali
 # ===========================================================
 
 # Programın ilk açılış zamanını Uptime hesabı için kaydediyoruz
