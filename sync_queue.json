@@ -1,0 +1,257 @@
+{
+  "bekleyen_yuklemeler": [
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160609_312047.png",
+      "log_metni": "[PENCERE] (16:06:09) Windows PowerShell",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:09"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160611_046900.png",
+      "log_metni": "[PENCERE] (16:06:11) C:\\Windows\\System32\\cmd.exe - py  askgercek.py",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:11"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160628_876595.png",
+      "log_metni": "[PENCERE] (16:06:28) Telegram Web - Profil 1 - Microsoft​ Edge",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:29"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160634_218744.png",
+      "log_metni": "[SÜRE] (16:06:34) Telegram Web - Profil 1 - Microsoft​ Edge",
+      "sebep": "SÜRE",
+      "zaman": "2026-07-17 16:06:34"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160634_953976.png",
+      "log_metni": "[PENCERE] (16:06:34) Yeni sekme ve diğer 1 sayfa - Profil 1 - Microsoft...",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:35"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160635_663718.png",
+      "log_metni": "[PENCERE] (16:06:35) Telegram Web - Profil 1 - Microsoft​ Edge",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:35"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160636_614748.png",
+      "log_metni": "[PENCERE] (16:06:36) 127.0.0.1 - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:36"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160637_511863.png",
+      "log_metni": "[PENCERE] (16:06:37) Telegram Web - Profil 1 - Microsoft​ Edge",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:37"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160639_444385.png",
+      "log_metni": "[PENCERE] (16:06:39) Görev Geçişi",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:39"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160639_990882.png",
+      "log_metni": "[PENCERE] (16:06:39) Masaustu / Bilinmeyen",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:40"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160641_498082.png",
+      "log_metni": "[PENCERE] (16:06:41) gercek - Dosya Gezgini",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:41"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160643_031240.png",
+      "log_metni": "[PENCERE] (16:06:43) askgercek - Dosya Gezgini",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:43"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160643_952880.png",
+      "log_metni": "[PENCERE] (16:06:43) gercek - Dosya Gezgini",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:44"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160645_278131.png",
+      "log_metni": "[PENCERE] (16:06:45) Terminal",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:45"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160645_606790.png",
+      "log_metni": "[PENCERE] (16:06:45) C:\\Windows\\System32\\cmd.exe",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:45"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160650_733375.png",
+      "log_metni": "[SÜRE] (16:06:50) C:\\Windows\\System32\\cmd.exe",
+      "sebep": "SÜRE",
+      "zaman": "2026-07-17 16:06:50"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160651_053899.png",
+      "log_metni": "[PENCERE] (16:06:51) C:\\Windows\\System32\\cmd.exe - py  askgercek_web.py",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:51"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160652_980147.png",
+      "log_metni": "[PENCERE] (16:06:52) AskGercek - Giris - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:06:53"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160658_083072.png",
+      "log_metni": "[SÜRE] (16:06:58) AskGercek - Giris - Google Chrome",
+      "sebep": "SÜRE",
+      "zaman": "2026-07-17 16:06:58"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160702_388630.png",
+      "log_metni": "[PENCERE] (16:07:02) (19) WhatsApp - Brave",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:02"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160703_031731.png",
+      "log_metni": "[PENCERE] (16:07:03) Masaustu / Bilinmeyen",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:03"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160703_467302.png",
+      "log_metni": "[PENCERE] (16:07:03) Telegram Web - Profil 1 - Microsoft​ Edge",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:03"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160704_634753.png",
+      "log_metni": "[PENCERE] (16:07:04) Masaustu / Bilinmeyen",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:04"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160705_562432.png",
+      "log_metni": "[PENCERE] (16:07:05) Windows PowerShell",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:05"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160711_032813.png",
+      "log_metni": "[SÜRE] (16:07:11) Windows PowerShell",
+      "sebep": "SÜRE",
+      "zaman": "2026-07-17 16:07:11"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160725_933185.png",
+      "log_metni": "[PENCERE] (16:07:25) AskGercek - Giris - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:25"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160727_492107.png",
+      "log_metni": "[PENCERE] (16:07:27) AskGercek Galeri - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:27"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160731_412671.png",
+      "log_metni": "[PENCERE] (16:07:31) Şifre kaydedilsin mi?",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:31"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160731_730452.png",
+      "log_metni": "[PENCERE] (16:07:31) AskGercek Galeri - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:31"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160736_050924.png",
+      "log_metni": "[PENCERE] (16:07:36) Telegram Web - Profil 1 - Microsoft​ Edge",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:36"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160737_201676.png",
+      "log_metni": "[PENCERE] (16:07:37) AskGercek Galeri - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:37"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160738_227569.png",
+      "log_metni": "[PENCERE] (16:07:38) Masaustu / Bilinmeyen",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:38"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160739_328439.png",
+      "log_metni": "[PENCERE] (16:07:39) AskGercek Galeri - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:39"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160741_042210.png",
+      "log_metni": "[PENCERE] (16:07:41) 127.0.0.1 - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:41"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160741_547255.png",
+      "log_metni": "[PENCERE] (16:07:41) Masaustu / Bilinmeyen",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:41"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160743_046084.png",
+      "log_metni": "[PENCERE] (16:07:43) Windows PowerShell",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:07:43"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160748_498462.png",
+      "log_metni": "[SÜRE] (16:07:48) Windows PowerShell",
+      "sebep": "SÜRE",
+      "zaman": "2026-07-17 16:07:48"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160803_645385.png",
+      "log_metni": "[PENCERE] (16:08:03) 127.0.0.1 - Google Chrome",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:08:03"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160806_151472.png",
+      "log_metni": "[PENCERE] (16:08:06) Telegram Web - Profil 1 - Microsoft​ Edge",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:08:06"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160807_108479.png",
+      "log_metni": "[PENCERE] (16:08:07) Yeni sekme ve diğer 1 sayfa - Profil 1 - Microsoft...",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:08:07"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160808_641079.png",
+      "log_metni": "[PENCERE] (16:08:08) railway - Arama ve diğer 1 sayfa - Profil 1 - Micr...",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:08:08"
+    },
+    {
+      "dosya_yolu": "C:\\Users\\irfan\\Desktop\\iş\\main\\gercek\\askgercek\\ekran_20260717_160810_142599.png",
+      "log_metni": "[PENCERE] (16:08:10) Masaustu / Bilinmeyen",
+      "sebep": "PENCERE",
+      "zaman": "2026-07-17 16:08:10"
+    }
+  ],
+  "bekleyen_silmeler": []
+}

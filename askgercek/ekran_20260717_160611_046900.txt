@@ -1,0 +1,1 @@
+[PENCERE] (16:06:11) C:\Windows\System32\cmd.exe - py  askgercek.py
