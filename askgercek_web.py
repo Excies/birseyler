@@ -15,7 +15,7 @@ app = Flask(__name__)
 app.secret_key = os.environ.get("SECRET_KEY", secrets.token_hex(32))
 
 WEB_SIFRE = os.environ.get("WEB_SIFRE", "askgercek2026")
-API_SIFRE = os.environ.get("API_SIFRE", "ag-api-gizli-key")
+API_SIFRE = os.environ.get("API_SIFRE", "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")
 
 VERI_KLASORU = os.environ.get("VERI_KLASORU", os.path.join(os.path.dirname(os.path.abspath(__file__)), "veriler"))
 DOSYA_KLASORU = os.path.join(VERI_KLASORU, "dosyalar")
